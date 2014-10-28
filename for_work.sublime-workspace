@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ite",
+				"Item"
+			],
+			[
+				"or",
+				"order_item"
+			],
+			[
+				"id_",
+				"id_order"
+			],
+			[
+				"I",
+				"ItemsOrder"
+			],
+			[
+				"ord",
+				"order_item"
+			],
+			[
+				"id",
+				"id_item"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"order",
+				"order_item"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"Item",
+				"Item"
+			],
+			[
+				"Che",
+				"check_status_change"
+			],
+			[
+				"s",
+				"sub_total"
+			],
+			[
+				"b",
+				"btn_plus"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"items",
+				"ItemsOrder"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"admin",
+				"admin"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"m",
+				"message_text"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"sta",
+				"status_order"
+			],
+			[
+				"item_",
+				"item_info"
+			],
+			[
+				"lis",
+				"list_category"
+			],
+			[
+				"list",
+				"list_item"
+			],
+			[
+				"bas",
+				"basket"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"pa",
+				"pay_price"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"del",
+				"del_link"
+			],
+			[
+				"coun",
+				"count_int"
+			],
+			[
+				"tab",
+				"table_cols"
+			],
+			[
+				"kol",
+				"kol_plus"
+			],
+			[
+				"im",
+				"item_image"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"ta",
+				"table_head"
+			],
+			[
+				"S",
+				"Session"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"C",
+				"CategoryItem"
+			],
+			[
+				"col",
+				"col_list"
+			],
+			[
+				"html",
+				"html_content"
+			],
+			[
+				"link",
+				"link_del"
+			],
+			[
+				"link_",
+				"link_edit"
+			],
+			[
+				"con",
+				"html_content"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"ak",
+				"Aktcii"
+			],
+			[
+				"fin",
+				"fin_price"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"na",
+				"name_price"
+			],
+			[
+				"name",
+				"name_image"
+			],
+			[
+				"bloc",
+				"block-item"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"fie",
+				"fields_link"
+			],
+			[
+				"bloks",
+				"blocks_item"
+			],
+			[
+				"next",
+				"next_order"
+			],
+			[
+				"me",
+				"medium"
+			],
+			[
+				"image",
+				"image_type"
+			],
+			[
+				"cont",
+				"content_save"
+			],
+			[
+				"Contet",
+				"Content"
+			],
+			[
+				"Con",
+				"Content"
+			],
+			[
+				"div",
+				"div_content"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"wr",
+				"wrapper"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ip",
+				"input_name"
+			],
+			[
+				"new",
+				"news_one"
+			],
+			[
+				"grou",
+				"group_id"
+			],
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"It",
+				"Item"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"auth",
+				"Auth"
+			],
+			[
+				"G",
+				"Group"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"arraykey",
+				"array_key_exists"
+			],
+			[
+				"co",
+				"compact"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"B",
+				"Block"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"Fie",
+				"Field"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"Bloc",
+				"Block"
+			],
+			[
+				"Cont",
+				"Content"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"wrap",
+				"Wrapper"
+			],
+			[
+				"Blo",
+				"Block_content"
+			],
+			[
+				"block",
+				"Block_wrapper"
+			],
+			[
+				"fo",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Controller/PagesController.php",
+			"settings":
+			{
+				"buffer_size": 1293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controller/AdminController.php",
+			"settings":
+			{
+				"buffer_size": 2454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body {\n	font-size: .5rem;\n	font-weight: 300;\n	background-color: rgb(50, 50, 50);\n	box-sizing: border-box;\n	padding-left: 5rem;\n	padding-bottom: 2rem;\n	font-family: sans-serif;\n}\n\n/*@base: #f938ab;*/\n\n.box-shadow(@style, @c) when (iscolor(@c)) {\n  -webkit-box-shadow: @style @c;\n  box-shadow:         @style @c;\n}\n.box-shadow(@style, @alpha: 50%) when (isnumber(@alpha)) {\n  .box-shadow(@style, rgba(0, 0, 0, @alpha));\n}\n.box {\n  color: saturate(@base, 5%);\n  border-color: lighten(@base, 30%);\n  div { .box-shadow(0 0 5px, 30%) }\n}",
+			"file": "app/webroot/less/15.less",
+			"file_size": 361,
+			"file_write_time": 130589407186332109,
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/webroot/css/admin.css",
+			"settings":
+			{
+				"buffer_size": 7397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/core.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/bootstrap.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Controller/AppController.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/less/styles.less",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/css/12.css",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/css/styles.css",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/routes.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Model/User.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/View/Admin/settings.ctp",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/View/Admin/users.ctp",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/database.php",
+		"/E/programs/denwer/home/cake.avtoinstrument.com/www/app/Config/database.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/dorffman.kz/app/Config/database.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/shop.godzilla.kz/app/Config/database.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Config/database.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/shop.godzilla.kz/app/View/Admin/menu_item_all.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/menu_item_all.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Order.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Item.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/order_items_edit.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/order_details.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/CategoryItem.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/menu_item.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/block-items_out.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/webroot/js/order_script.js",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/basket.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Controller/AdminsController.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Aktcii.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/User.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Controller/AdminController.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Controller/AppController.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/.gitignore",
+		"/E/programs/denwer/home/ftphg.com/www/hgftp/.hg/hgrc",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/orders_all.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/login.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Config/routes.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/app/Config/core.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/1/1/shop/app/index.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/1/0/index.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/shop.godzilla.kz/app/Controller/AdminController.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tc/PagesController.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/shop.godzilla.kz/app/Controller/PagesController.php",
+		"/C/Users/Алексей/AppData/Local/Temp/_tc/AdminController.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/order_make.ctp",
+		"/C/Users/Алексей/AppData/Local/Temp/scp17856/shop.godzilla.kz/app/View/Elements/block-items_out.ctp",
+		"/C/Users/Алексей/AppData/Local/Temp/scp16356/shop.godzilla.kz/app/View/Admin/aktcii.ctp",
+		"/C/Users/Алексей/Desktop/index.php",
+		"/E/programs/denwer/home/my.proba.com/www/index.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/users.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/order-all-out.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/catagory_menu.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/menu.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Layouts/default.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/items-selector-out.ctp",
+		"/E/programs/denwer/home/cake.chulki.com/www/.hgignore",
+		"/E/programs/denwer/home/cake.suhi.com/www/.hgignore",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Image.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/aktsiya.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/list-aktcii.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Controller/PagesController.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/aktcii.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/item_aktcii.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/list-aktcii.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/aktcii.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/send_order.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/block-footer.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Pages/add_order.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/block-header-menu.ctp",
+		"/E/programs/denwer/home/cake.avtoinstrument.com/www/app/View/Elements/hand-block-zakaz-zvonka.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Elements/hand-block-zakaz-zvonka.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Layouts/xml/default.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Admin/blocksall.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Admin/wrappers.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Admin/wrappersall.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/.hgignore",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Admin/blocks.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Pages/home.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Elements/st-block-out.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Elements/st-main-menu.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Layouts/default.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/View/Admin/blocksfields.ctp",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Image.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Content.php",
+		"/C/Users/Алексей/Desktop/core.php",
+		"/E/programs/denwer/home/cake.chulki.com/www/AdminsController.php",
+		"/E/programs/denwer/home/cake.chulki.com/www/app/Controller/PagesController.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Text.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Field.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Block.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Item.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/webroot/css/init.css",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Wrapper.php",
+		"/E/programs/denwer/home/cake.myblock.com/www/app/Model/Blockwrapper.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Model/Novosti.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Model/Image.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Admin/news_all.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Pages/news.ctp",
+		"/E/programs/denwer/home/cake.godzilla.com/www/index.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Model/New.php",
+		"/E/programs/denwer/home/cake.chulki/www/app/Model/New.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Model/User.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Admin/users.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Admin/objects_all.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Elements/news-all.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Elements/news_add.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Pages/home.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Config/routes.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/View/Admin/login.ctp",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Config/core.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Config/bootstrap.php",
+		"/E/programs/denwer/home/cake.kala.com/www/app/Config/database.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Elements/main-menu.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Image2.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Emails/html/contact.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Image1.php",
+		"/E/programs/denwer/home/cake.chulki/www/app/Model/Image1.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Group.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Admin/delete_image.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Model/Image1 (2).php",
+		"/E/programs/denwer/home/cake.chulki/www/app/Model/Text.php",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/Config/email.php",
+		"/E/programs/denwer/home/cake.chulki/www/app/Model/Image.php",
+		"/E/programs/denwer/home/cake.chulki/www/app/Config/routes.php",
+		"/E/programs/denwer/home/cake.chulki/www/app/View/Emails/html/contact.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Layouts/Emails/html/default.ctp",
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Emails/html/default.ctp",
+		"/E/programs/denwer/home/cake.chulki/www/app/View/Layouts/Emails/html/default.ctp",
+		"/E/programs/denwer/home/cake.chulki/www/app/Config/email.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"database",
+			"lol",
+			"0",
+			" \n",
+			"contr",
+			"add-to-",
+			"change",
+			"basket_update",
+			"order['Item'][0]",
+			"id",
+			"Item",
+			"ItemsOrder",
+			"items_list",
+			"pattern",
+			"required",
+			"1",
+			"list_items",
+			"list_category",
+			"html->",
+			"form->",
+			"html->",
+			"Html",
+			"html",
+			"html->",
+			"form->",
+			"list_category",
+			"form->",
+			"html->",
+			"add_basket",
+			"items_data",
+			"_cont",
+			"4",
+			"['Item']",
+			"']['",
+			"['Item']",
+			"list_category",
+			"CategoryItem",
+			"html_content",
+			"category_item",
+			"CategoryItem",
+			"		\n",
+			"						 ",
+			"title",
+			"razdelitel",
+			"$value",
+			"image_1",
+			"'Image'",
+			"image_2",
+			"'Image'",
+			"image",
+			"Image",
+			"Akctii",
+			"image",
+			"Item",
+			"image_2s",
+			"conditions",
+			"block-ite",
+			"admin",
+			"link",
+			"X",
+			"block-",
+			"добавить",
+			"model",
+			"1",
+			"block",
+			"session",
+			"sess",
+			"die",
+			"image_options",
+			"model",
+			"placeholder",
+			"image_options",
+			"image",
+			"die()",
+			"$this->data",
+			"redir",
+			"contenttype",
+			"добавить сод",
+			"value",
+			"image",
+			"target",
+			"link",
+			"content",
+			"User",
+			"New",
+			"objects",
+			"object",
+			"Object",
+			"object",
+			"Object",
+			"New",
+			"one_new",
+			"clas",
+			"typ",
+			"created",
+			"1",
+			"lol",
+			"image",
+			"unlink",
+			"unserialize",
+			"image_id",
+			"new_image",
+			"Image_model",
+			"534932ac-af5c-4dca",
+			"menu_item_all",
+			"password",
+			"id",
+			"date",
+			"();\n",
+			"users_id",
+			"groups",
+			"cond",
+			"user_id",
+			"success",
+			"id",
+			"AuthComponent",
+			"group_id",
+			"date",
+			"save",
+			"uns",
+			"submit",
+			"type",
+			"Название",
+			"Количество",
+			"items",
+			"ses",
+			"content",
+			"mass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Html->",
+			"Form->",
+			"Html->",
+			"Form->",
+			"Html->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Controller/PagesController.php",
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Controller/AdminController.php",
+					"settings":
+					{
+						"buffer_size": 2454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1733,
+								1733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/webroot/less/15.less",
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/webroot/css/admin.css",
+					"settings":
+					{
+						"buffer_size": 7397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 706.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/programs/denwer/home/cake.superlive.com/www/Няни.sublime-project"
+			],
+			[
+				"cot",
+				"/E/programs/denwer/home/cake.cp.com/www/control-project.sublime-project"
+			]
+		],
+		"width": 1362.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
