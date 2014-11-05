@@ -407,7 +407,7 @@
 			"file": "app/Controller/PagesController.php",
 			"settings":
 			{
-				"buffer_size": 1293,
+				"buffer_size": 588,
 				"line_ending": "Unix"
 			}
 		},
@@ -415,27 +415,24 @@
 			"file": "app/Controller/AdminController.php",
 			"settings":
 			{
-				"buffer_size": 2454,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "body {\n	font-size: .5rem;\n	font-weight: 300;\n	background-color: rgb(50, 50, 50);\n	box-sizing: border-box;\n	padding-left: 5rem;\n	padding-bottom: 2rem;\n	font-family: sans-serif;\n}\n\n/*@base: #f938ab;*/\n\n.box-shadow(@style, @c) when (iscolor(@c)) {\n  -webkit-box-shadow: @style @c;\n  box-shadow:         @style @c;\n}\n.box-shadow(@style, @alpha: 50%) when (isnumber(@alpha)) {\n  .box-shadow(@style, rgba(0, 0, 0, @alpha));\n}\n.box {\n  color: saturate(@base, 5%);\n  border-color: lighten(@base, 30%);\n  div { .box-shadow(0 0 5px, 30%) }\n}",
-			"file": "app/webroot/less/15.less",
-			"file_size": 361,
-			"file_write_time": 130589407186332109,
-			"settings":
-			{
-				"buffer_size": 531,
+				"buffer_size": 5821,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/webroot/css/admin.css",
+			"file": "app/Model/Image.php",
 			"settings":
 			{
-				"buffer_size": 7397,
-				"line_ending": "Unix"
+				"buffer_size": 6179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Model/Text.php",
+			"settings":
+			{
+				"buffer_size": 1491,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -463,9 +460,13 @@
 	},
 	"file_history":
 	[
-		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/core.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/.hgignore",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/bootstrap.php",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Controller/AppController.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/database.php",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/css/admin.css",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/less/15.less",
+		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/core.php",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/less/styles.less",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/css/12.css",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/webroot/css/styles.css",
@@ -473,7 +474,6 @@
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Model/User.php",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/View/Admin/settings.ctp",
 		"/E/programs/denwer/home/my.new.cake.for.work/www/app/View/Admin/users.ctp",
-		"/E/programs/denwer/home/my.new.cake.for.work/www/app/Config/database.php",
 		"/E/programs/denwer/home/cake.avtoinstrument.com/www/app/Config/database.php",
 		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/dorffman.kz/app/Config/database.php",
 		"/C/Users/Алексей/AppData/Local/Temp/_tcx/0/0/shop.godzilla.kz/app/Config/database.php",
@@ -587,10 +587,7 @@
 		"/E/programs/denwer/home/cake.chulki/www/app/Model/Image.php",
 		"/E/programs/denwer/home/cake.chulki/www/app/Config/routes.php",
 		"/E/programs/denwer/home/cake.chulki/www/app/View/Emails/html/contact.ctp",
-		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Layouts/Emails/html/default.ctp",
-		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Emails/html/default.ctp",
-		"/E/programs/denwer/home/cake.chulki/www/app/View/Layouts/Emails/html/default.ctp",
-		"/E/programs/denwer/home/cake.chulki/www/app/Config/email.php"
+		"/E/programs/denwer/home/cake.suhi.com/www/app/View/Layouts/Emails/html/default.ctp"
 	],
 	"find":
 	{
@@ -758,7 +755,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -766,25 +763,25 @@
 					"file": "app/Controller/PagesController.php",
 					"settings":
 					{
-						"buffer_size": 1293,
+						"buffer_size": 588,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								280,
+								280
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 54.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -794,15 +791,15 @@
 					"file": "app/Controller/AdminController.php",
 					"settings":
 					{
-						"buffer_size": 2454,
+						"buffer_size": 5821,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1733,
-								1733
+								4057,
+								4057
 							]
 						],
 						"settings":
@@ -811,30 +808,31 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 432.0,
+						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/webroot/less/15.less",
+					"file": "app/Model/Image.php",
 					"settings":
 					{
-						"buffer_size": 531,
+						"buffer_size": 6179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								198,
-								198
+								6168,
+								6168
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -844,23 +842,23 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/webroot/css/admin.css",
+					"file": "app/Model/Text.php",
 					"settings":
 					{
-						"buffer_size": 7397,
+						"buffer_size": 1491,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								177,
-								0
+								343,
+								343
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -918,7 +916,7 @@
 	},
 	"select_project":
 	{
-		"height": 706.0,
+		"height": 475.0,
 		"selected_items":
 		[
 			[
@@ -930,7 +928,7 @@
 				"/E/programs/denwer/home/cake.cp.com/www/control-project.sublime-project"
 			]
 		],
-		"width": 1362.0
+		"width": 539.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,

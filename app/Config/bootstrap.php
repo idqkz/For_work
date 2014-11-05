@@ -107,4 +107,4 @@ CakeLog::config('error', array(
 	'file' => 'error',
 ));
 
-CakePlugin::load('LessCompiler');
+CakePlugin::load('Cakeless');

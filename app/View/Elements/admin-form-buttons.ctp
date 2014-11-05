@@ -1,13 +1,13 @@
 <?php
 $model = key($this->request->data);
-// debug($this->data);
-// debug($model);
-// die();
 
 if (!empty($this->data[$model]['id'])) {
+	if(!isset($delete_action)){
+		$delete_action = 'delete_'.$this->action;
+	}
 	$save_button_text = 'Сохранить';
 	$delete_link = $this->Html->link('удалить', 
-		array('controller' => 'admin', 'action' => 'delete_'.$this->action, 
+		array('controller' => 'admin', 'action' => $delete_action, 
 			$this->data[$model]['id']),
 		array('class' => 'btn btn-danger'));
 } else {

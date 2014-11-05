@@ -1,8 +1,9 @@
 <?php
 
 	Router::connect('/', array('controller' => 'pages', 'action' => 'home'));
-	Router::connect('/admin', array('controller' => 'admin', 'action' => 'settings'));
 	Router::connect('/logout', array('controller' => 'admin', 'action' => 'logout'));
+	Router::connect('/admin', array('controller' => 'admin', 'action' => 'settings'));
+
 /**
  * ...and connect the rest of 'Pages' controller's URLs.
  */

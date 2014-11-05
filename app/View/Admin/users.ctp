@@ -1,5 +1,4 @@
-<div class="wrapper">
-<?php 
+	<?php 
 		echo $this->Form->create('User', 		array('inputDefaults' => array('class' => 'input-text', 'label' => false)));
 		echo $this->Form->hidden('id');
 		echo $this->Html->tag('h2', 'Пользователи');
@@ -30,4 +29,3 @@
 <?php
 	echo $this->Html->script('view-pass');
 ?>
-</div>
